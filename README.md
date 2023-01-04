@@ -2,7 +2,7 @@
 Codigo HTML, CSS para um site de Barbearia 
 
 Ola, sou um novo estudante no universo de programação e vim atravez do github publicar minhas conquistas, Uma dessas conquistas é a um curso de HTML e CSS basico,
-para a criação de um site destinado a uma barbearia, o curso é dividio em quatro partes cada parte aprofundando ainda mais o desenvoimento do codigo.
+para a criação de um site destinado a uma barbearia, o curso é dividido em quatro partes cada parte aprofundando ainda mais o desenvoimento do codigo.
   Desenvolvido no curso:
   
 *estrutura básica de um arquivo HTML.
